@@ -3,7 +3,7 @@ var Player = (function () {
         this.strength = 10;
     }
     Player.prototype.jump = function () {
-        console.debug("you jumped!");
+        console.debug("chu");
     };
     return Player;
 }());
@@ -11,4 +11,3 @@ function main() {
     var jay = new Player();
     jay.jump();
 }
-//# sourceMappingURL=game.js.map

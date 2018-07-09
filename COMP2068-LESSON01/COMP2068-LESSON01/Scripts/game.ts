@@ -5,7 +5,7 @@
     }
 
     jump() {
-        console.debug("you jumped!");
+        console.debug("chu");
     }
 
 
